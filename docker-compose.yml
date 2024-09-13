@@ -1,0 +1,105 @@
+version: '3.4'
+
+services:
+
+    grafana:
+        container_name: grafana
+        image: grafana/grafana:master
+        ports:
+            - "3000:3000"
+        volumes:
+            - ./grafana/provisioning/datasources:/etc/grafana/provisioning/datasources
+            - ./grafana/provisioning/dashboards:/etc/grafana/provisioning/dashboards
+        depends_on:
+            prometheus:
+                condition: service_healthy
+        healthcheck:
+            test: wget -q --tries=1 -O- http://localhost:3000/
+            interval: 3s
+            timeout: 3s
+            retries: 10
+            start_period: 10s
+
+    prometheus:
+        image: prom/prometheus
+        container_name: prometheus
+        restart: always
+        ports:
+            - 9090:9090
+        volumes:
+            - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+        healthcheck:
+            test: wget -q --tries=1 -O- http://localhost:9090/
+            interval: 3s
+            timeout: 3s
+            retries: 10
+            start_period: 10s
+
+    leaderboard:
+        image: ${DOCKER_REGISTRY-}leaderboard
+        volumes:
+            - ./Leaderboard:/src/Leaderboard
+        build:
+            context: .
+            dockerfile: Leaderboard/Dockerfile
+        depends_on:
+            redis:
+                condition: service_started
+
+
+    quizparticipation:
+        image: ${DOCKER_REGISTRY-}quizparticipation
+
+        volumes:
+            - ./QuizParticipation:/src/QuizParticipation
+        build:
+            context: .
+            dockerfile: QuizParticipation/Dockerfile
+        depends_on:
+            redis:
+                condition: service_started
+
+
+    scoreupdates:
+        image: ${DOCKER_REGISTRY-}scoreupdates
+        volumes:
+            - ./ScoreUpdates:/src/ScoreUpdates
+        build:
+            context: .
+            dockerfile: ScoreUpdates/Dockerfile
+        depends_on:
+            redis:
+                condition: service_started
+
+
+    yarp.gateway:
+        image: ${DOCKER_REGISTRY-}yarpgateway
+        volumes:
+            - ./Yarp.Gateway:/src/Yarp.Gateway
+        build:
+            context: .
+            dockerfile: Yarp.Gateway/Dockerfile
+        depends_on:
+            redis:
+                condition: service_started
+
+    redis:
+        image: redis:latest
+        container_name: redis
+        environment:
+            - REDIS_PASSWORD=securepassword
+        ports:
+            - "6379:6379"
+        command: ["redis-server", "--requirepass", "securepassword"]
+
+    realtimequiz.webapp.mvc:
+        image: ${DOCKER_REGISTRY-}realtimequizwebappmvc
+        volumes:
+            - ./RealTimeQuiz.WebApp.MVC:/src/RealTimeQuiz.WebApp.MVC
+        build:
+            context: .
+            dockerfile: RealTimeQuiz.WebApp.MVC/Dockerfile
+        depends_on:
+            redis:
+                condition: service_started
+

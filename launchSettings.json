@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "leaderboard": "StartDebugging",
+        "quizparticipation": "StartDebugging",
+        "scoreupdates": "StartDebugging",
+        "yarp.gateway": "StartDebugging",
+        "realtimequizreactapp.server": "StartDebugging",
+        "realtimequiz.webapp.mvc": "StartDebugging"
+      }
+    }
+  }
+}

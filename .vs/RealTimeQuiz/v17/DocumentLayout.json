@@ -1,0 +1,884 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\RealTimeQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\views\\quiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\hubs\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\hubs\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|d:\\workspace\\realtimequiz\\leaderboard\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|solutionrelative:leaderboard\\controllers\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|d:\\workspace\\realtimequiz\\quizparticipation\\controllers\\quizparticipationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|solutionrelative:quizparticipation\\controllers\\quizparticipationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E877C3-81E3-4B2E-AE34-5400E85358FA}|RealTimeQuiz.Service\\RealTimeQuiz.Services.csproj|d:\\workspace\\realtimequiz\\realtimequiz.service\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E877C3-81E3-4B2E-AE34-5400E85358FA}|RealTimeQuiz.Service\\RealTimeQuiz.Services.csproj|solutionrelative:realtimequiz.service\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|d:\\workspace\\realtimequiz\\scoreupdates\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|solutionrelative:scoreupdates\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|d:\\workspace\\realtimequiz\\leaderboard\\leaderboard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|solutionrelative:leaderboard\\leaderboard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|d:\\workspace\\realtimequiz\\leaderboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|solutionrelative:leaderboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|d:\\workspace\\realtimequiz\\scoreupdates\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|solutionrelative:scoreupdates\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|d:\\workspace\\realtimequiz\\quizparticipation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|solutionrelative:quizparticipation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|d:\\workspace\\realtimequiz\\leaderboard\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|solutionrelative:leaderboard\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctrieu\\AppData\\Local\\SourceServer\\0e53fed52daed85128b16a75184d41c2e7c6459ff3efd844144a257012468359\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|d:\\workspace\\realtimequiz\\realtimequiz.shared\\models\\leaderboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|solutionrelative:realtimequiz.shared\\models\\leaderboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctrieu\\AppData\\Local\\SourceServer\\4e8907919a3012c57d4ed7c3689c94c7bfc3c719aa1c3c359ebe35e480b4125a\\src\\StackExchange.Redis\\ConfigurationOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|d:\\workspace\\realtimequiz\\realtimequiz.shared\\models\\updatescoreresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|solutionrelative:realtimequiz.shared\\models\\updatescoreresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|d:\\workspace\\realtimequiz\\realtimequiz.shared\\models\\joinquizrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|solutionrelative:realtimequiz.shared\\models\\joinquizrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|d:\\workspace\\realtimequiz\\leaderboard\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|solutionrelative:leaderboard\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|d:\\workspace\\realtimequiz\\quizparticipation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|solutionrelative:quizparticipation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|d:\\workspace\\realtimequiz\\scoreupdates\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|solutionrelative:scoreupdates\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|d:\\workspace\\realtimequiz\\yarp.gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|d:\\workspace\\realtimequiz\\realtimequiz.shared\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|solutionrelative:realtimequiz.shared\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|d:\\workspace\\realtimequiz\\quizparticipation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|solutionrelative:quizparticipation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\models\\joinquizresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\models\\joinquizresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|d:\\workspace\\realtimequiz\\realtimequiz.shared\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB87903-5B4D-41B6-8504-3EB8EBB4A639}|RealTimeQuiz.Shared\\RealTimeQuiz.Shared.csproj|solutionrelative:realtimequiz.shared\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|d:\\workspace\\realtimequiz\\realtimequiz.webapp.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85857619-9ED1-434F-BE3A-51430F6D244B}|RealTimeQuiz.WebApp.MVC\\RealTimeQuiz.WebApp.MVC.csproj|solutionrelative:realtimequiz.webapp.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|d:\\workspace\\realtimequiz\\yarp.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\grafana\\provisioning\\dashboards\\apidashboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:grafana\\provisioning\\dashboards\\apidashboard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\grafana\\provisioning\\datasources\\prometheus_ds.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:grafana\\provisioning\\datasources\\prometheus_ds.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\grafana\\provisioning\\dashboards\\dashboard.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:grafana\\provisioning\\dashboards\\dashboard.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\prometheus\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:prometheus\\prometheus.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|d:\\workspace\\realtimequiz\\yarp.gateway\\yarp.gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\yarp.gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|d:\\workspace\\realtimequiz\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{059E32B9-9D25-4081-B0C0-F4ED58129B3E}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|d:\\workspace\\realtimequiz\\leaderboard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53EDBC57-9B14-4C02-995B-3B86B9D2C840}|Leaderboard\\Leaderboard.csproj|solutionrelative:leaderboard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|d:\\workspace\\realtimequiz\\scoreupdates\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9DF7FE4-0AB0-46CD-9AE1-A1DACA526065}|ScoreUpdates\\ScoreUpdates.csproj|solutionrelative:scoreupdates\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|d:\\workspace\\realtimequiz\\quizparticipation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|solutionrelative:quizparticipation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|d:\\workspace\\realtimequiz\\quizparticipation\\quizparticipation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE4AFA68-656F-4181-B377-AAB852AD85F5}|QuizParticipation\\QuizParticipation.csproj|solutionrelative:quizparticipation\\quizparticipation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|d:\\workspace\\realtimequiz\\yarp.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E316C3-E3A3-4263-961D-82BC23F3BCDA}|Yarp.Gateway\\Yarp.Gateway.csproj|solutionrelative:yarp.gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizParticipationController.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\Controllers\\QuizParticipationController.cs",
+              "RelativeDocumentMoniker": "QuizParticipation\\Controllers\\QuizParticipationController.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\Controllers\\QuizParticipationController.cs",
+              "RelativeToolTip": "QuizParticipation\\Controllers\\QuizParticipationController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:31:29.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAtwDQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:28:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Controllers\\QuizController.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Controllers\\QuizController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:02:35.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Messenger.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Hubs\\Messenger.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Hubs\\Messenger.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Hubs\\Messenger.cs",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Hubs\\Messenger.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:54:36.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Service\\RedisService.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.Service\\RedisService.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Service\\RedisService.cs",
+              "RelativeToolTip": "RealTimeQuiz.Service\\RedisService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:36:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-12T18:02:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T08:24:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T08:24:17.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Views\\Quiz\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Views\\Quiz\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Views\\Quiz\\Index.cshtml",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Views\\Quiz\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:53:59.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Controllers\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "Leaderboard\\Controllers\\LeaderboardController.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Controllers\\LeaderboardController.cs",
+              "RelativeToolTip": "Leaderboard\\Controllers\\LeaderboardController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:48:51.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScoresController.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\Controllers\\ScoresController.cs",
+              "RelativeDocumentMoniker": "ScoreUpdates\\Controllers\\ScoresController.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\Controllers\\ScoresController.cs",
+              "RelativeToolTip": "ScoreUpdates\\Controllers\\ScoresController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:59:01.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Leaderboard.http",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Leaderboard.http",
+              "RelativeDocumentMoniker": "Leaderboard\\Leaderboard.http",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Leaderboard.http",
+              "RelativeToolTip": "Leaderboard\\Leaderboard.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-13T01:12:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-13T01:53:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Program.cs",
+              "RelativeDocumentMoniker": "Leaderboard\\Program.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Program.cs",
+              "RelativeToolTip": "Leaderboard\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:13:06.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-11T03:38:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ScoreUpdates\\appsettings.Development.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\appsettings.Development.json",
+              "RelativeToolTip": "ScoreUpdates\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T22:56:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QuizParticipation\\appsettings.Development.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\appsettings.Development.json",
+              "RelativeToolTip": "QuizParticipation\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T17:42:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\appsettings.Development.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\appsettings.Development.json",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T02:53:44.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Leaderboard\\appsettings.Development.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\appsettings.Development.json",
+              "RelativeToolTip": "Leaderboard\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T19:49:04.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectionMultiplexer.cs",
+              "DocumentMoniker": "C:\\Users\\ctrieu\\AppData\\Local\\SourceServer\\0e53fed52daed85128b16a75184d41c2e7c6459ff3efd844144a257012468359\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "ToolTip": "C:\\Users\\ctrieu\\AppData\\Local\\SourceServer\\0e53fed52daed85128b16a75184d41c2e7c6459ff3efd844144a257012468359\\src\\StackExchange.Redis\\ConnectionMultiplexer.cs",
+              "ViewState": "AQIAAMECAAAAAAAAAAAwwNgCAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:57:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\libman.json",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\libman.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\libman.json",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T19:46:28.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaderboardModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Models\\LeaderboardModel.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.Shared\\Models\\LeaderboardModel.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Models\\LeaderboardModel.cs",
+              "RelativeToolTip": "RealTimeQuiz.Shared\\Models\\LeaderboardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:54:24.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\Dockerfile",
+              "RelativeDocumentMoniker": "ScoreUpdates\\Dockerfile",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\Dockerfile",
+              "RelativeToolTip": "ScoreUpdates\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T02:49:28.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Dockerfile",
+              "RelativeDocumentMoniker": "Leaderboard\\Dockerfile",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Dockerfile",
+              "RelativeToolTip": "Leaderboard\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T02:40:09.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\Dockerfile",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Dockerfile",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\Dockerfile",
+              "RelativeToolTip": "Yarp.Gateway\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T01:18:52.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Dockerfile",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Dockerfile",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Dockerfile",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T15:19:56.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfigurationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ctrieu\\AppData\\Local\\SourceServer\\4e8907919a3012c57d4ed7c3689c94c7bfc3c719aa1c3c359ebe35e480b4125a\\src\\StackExchange.Redis\\ConfigurationOptions.cs",
+              "ToolTip": "C:\\Users\\ctrieu\\AppData\\Local\\SourceServer\\4e8907919a3012c57d4ed7c3689c94c7bfc3c719aa1c3c359ebe35e480b4125a\\src\\StackExchange.Redis\\ConfigurationOptions.cs",
+              "ViewState": "AQIAAFcDAAAAAAAAAAAwwGoDAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:45:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateScoreResult.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Models\\UpdateScoreResult.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.Shared\\Models\\UpdateScoreResult.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Models\\UpdateScoreResult.cs",
+              "RelativeToolTip": "RealTimeQuiz.Shared\\Models\\UpdateScoreResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:04:59.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JoinQuizRequest.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Models\\JoinQuizRequest.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.Shared\\Models\\JoinQuizRequest.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Models\\JoinQuizRequest.cs",
+              "RelativeToolTip": "RealTimeQuiz.Shared\\Models\\JoinQuizRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:21:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAjwMcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-12T02:29:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\Dockerfile",
+              "RelativeDocumentMoniker": "QuizParticipation\\Dockerfile",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\Dockerfile",
+              "RelativeToolTip": "QuizParticipation\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T03:35:29.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\appsettings.json",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T11:38:44.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizParticipation\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\appsettings.json",
+              "RelativeToolTip": "QuizParticipation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T03:35:45.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "APISettings.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\APISettings.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.Shared\\APISettings.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\APISettings.cs",
+              "RelativeToolTip": "RealTimeQuiz.Shared\\APISettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:39:55.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "JoinQuizResultModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Models\\JoinQuizResultModel.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Models\\JoinQuizResultModel.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Models\\JoinQuizResultModel.cs",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Models\\JoinQuizResultModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:32:20.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Constant.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.Shared\\Constant.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.Shared\\Constant.cs",
+              "RelativeToolTip": "RealTimeQuiz.Shared\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:36:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RealTimeQuiz.WebApp.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\RealTimeQuiz.WebApp.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RealTimeQuiz.WebApp.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:32:10.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "prometheus.yml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\prometheus\\prometheus.yml",
+              "RelativeDocumentMoniker": "prometheus\\prometheus.yml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\prometheus\\prometheus.yml",
+              "RelativeToolTip": "prometheus\\prometheus.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-12T04:25:51.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "prometheus_ds.yml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\grafana\\provisioning\\datasources\\prometheus_ds.yml",
+              "RelativeDocumentMoniker": "grafana\\provisioning\\datasources\\prometheus_ds.yml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\grafana\\provisioning\\datasources\\prometheus_ds.yml",
+              "RelativeToolTip": "grafana\\provisioning\\datasources\\prometheus_ds.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-12T04:23:17.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Program.cs",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\Program.cs",
+              "RelativeToolTip": "Yarp.Gateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:32:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "APIDashboard.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\grafana\\provisioning\\dashboards\\APIDashboard.json",
+              "RelativeDocumentMoniker": "grafana\\provisioning\\dashboards\\APIDashboard.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\grafana\\provisioning\\dashboards\\APIDashboard.json",
+              "RelativeToolTip": "grafana\\provisioning\\dashboards\\APIDashboard.json",
+              "ViewState": "AQIAANAAAAAAAAAAAAAIwPcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T04:39:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dashboard.yml",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\grafana\\provisioning\\dashboards\\dashboard.yml",
+              "RelativeDocumentMoniker": "grafana\\provisioning\\dashboards\\dashboard.yml",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\grafana\\provisioning\\dashboards\\dashboard.yml",
+              "RelativeToolTip": "grafana\\provisioning\\dashboards\\dashboard.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-12T04:39:12.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T02:20:39.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Leaderboard\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Leaderboard\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Leaderboard\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T03:36:56.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Yarp.Gateway.http",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\Yarp.Gateway.http",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\Yarp.Gateway.http",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\Yarp.Gateway.http",
+              "RelativeToolTip": "Yarp.Gateway\\Yarp.Gateway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-12T02:32:47.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ScoreUpdates\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\ScoreUpdates\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ScoreUpdates\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T03:36:38.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuizParticipation\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuizParticipation\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T03:35:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "QuizParticipation.csproj",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\QuizParticipation.csproj",
+              "RelativeDocumentMoniker": "QuizParticipation\\QuizParticipation.csproj",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\QuizParticipation\\QuizParticipation.csproj",
+              "RelativeToolTip": "QuizParticipation\\QuizParticipation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T03:35:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Yarp.Gateway\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\RealTimeQuiz\\Yarp.Gateway\\appsettings.json",
+              "RelativeToolTip": "Yarp.Gateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T03:28:17.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

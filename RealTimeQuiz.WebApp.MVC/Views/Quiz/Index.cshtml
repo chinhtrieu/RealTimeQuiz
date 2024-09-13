@@ -1,0 +1,28 @@
+﻿
+<div class="text-center">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">
+    <input type="hidden" value="@ViewBag.UserId" id="UserId" name="UserId" />
+    <input type="hidden" value="@ViewBag.QuizId" id="QuizId" name="QuizId" />
+    <div class="form-group">
+        <label for="exampleInputEmail1">Enter your answer</label>
+        <input type="text" class="form-control" id="answer" name="answer" placeholder="Enter your answer">
+
+    </div>
+
+    <button type="button" class="btn btn-primary" id="submitButton" name="submitButton">Submit</button>
+
+    </div>
+    <div class="col-md-3" id="leaderBoad">
+        <h3>Leaderboard</h3>
+        <br/>
+        <ul id="itemList" class="list-group list-group-flush">
+        </ul>
+
+    </div>
+    <div class="col-md-3"></div>
+</div>
+
+
+<script src="~/lib/microsoft-signalr/signalr.js"></script>
+<script src="~/js/script.js"></script>

@@ -1,0 +1,6 @@
+@ScoreUpdates_HostAddress = http://localhost:5069
+
+GET {{ScoreUpdates_HostAddress}}/scores/
+Accept: application/json
+
+###

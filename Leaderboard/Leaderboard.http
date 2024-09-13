@@ -1,0 +1,6 @@
+@Leaderboard_HostAddress = http://localhost:5213
+
+GET {{Leaderboard_HostAddress}}/Leaderboard/
+Accept: application/json
+
+###

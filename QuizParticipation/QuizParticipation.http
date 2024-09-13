@@ -1,0 +1,6 @@
+@QuizParticipation_HostAddress = http://localhost:5257
+
+GET {{QuizParticipation_HostAddress}}/QuizParticipation/
+Accept: application/json
+
+###
