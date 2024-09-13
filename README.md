@@ -28,7 +28,7 @@ cd RealTimeQuiz
     ```
 
 3. **Access the application**:
-    Open your browser and go to `http://localhost:80001`
+    Open your browser and go to `http://localhost:8001`
 
 ### Stopping the Application
 To stop the application, run:
@@ -37,9 +37,6 @@ docker-compose down
 ```
 
 ## Configuration
-- **Environment Variables**: You can configure the application by setting the following environment variables in the `.env` file:
-    - `ENV_VAR_1`: Description of ENV_VAR_1
-    - `ENV_VAR_2`: Description of ENV_VAR_2
 
 ## Troubleshooting
 - If you encounter any issues, check the logs:
