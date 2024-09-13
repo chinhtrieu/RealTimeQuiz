@@ -13,7 +13,7 @@ Welcome to the Real-Time Quiz feature for an English learning application. This 
 ### Clone the Repository
 ```bash
 git clone https://github.com/chinhtrieu/RealTimeQuiz.git
-cd your-repo
+cd RealTimeQuiz
 ```
 
 ### Build and Run the Application
