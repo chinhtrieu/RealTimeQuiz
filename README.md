@@ -1,5 +1,3 @@
-Sure, here's the raw markdown content for the `README.md` file:
-
 ```markdown
 # RealTimeQuiz
 
