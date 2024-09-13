@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [List any acknowledgements, if any]
 ```
 
-You can copy and paste this content into your `README.md` file. If you need any further adjustments or additional sections, feel free to ask!
+
